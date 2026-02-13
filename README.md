@@ -2,10 +2,7 @@
 
 A small collection of LangGraph notebook workflows for learning and experimentation.
 
-## What is inside
-- `seq_workflow/`: Sequential graph examples
-- `parallel_workflow/`: Parallel evaluation workflows
-- `test.ipynb`: Basic starter notebook
+
 
 ## Quick start
 1. Create and activate a Python virtual environment.
